@@ -1,7 +1,7 @@
 const messages = [
   "Aloo, Rahmatunisaaa 👋",
   "Kamu tau ga? Aku tuh sering kalah kalau main game :(",
-  "Tapi ada yang lebih parah, aku selalu kalah sama senyummanmu :3 ❤️",
+  "Tapi ada yang lebih parah, aku selalu kalah sama senyumanmu :3 ❤️",
   "Serius deh, aku nyaman banget sama kamu...",
   "Jadi ... ",
   "Nisa, mau gak kamu jadi pacar mas? 💕"
@@ -134,4 +134,5 @@ function startFloating() {
     popup.style.display = "none";   // sembunyiin popup
     mainContent.style.display = "block"; // tampilkan isi
   });
+
 
